@@ -9,11 +9,15 @@ The SafeGuard is a user-friendly tool for managing and storing passwords securel
 SafeGuard is designed to securely store and manage your passwords, ensuring that your sensitive information is protected with the highest level of security.
 
 # How to Use 👥 (Features of Application)
-🔐 Generate strong and secure random passwords
-🔑 Utilize advanced hashing algorithms (SHA-1 + Salt) for password encryption
-📲 Securely store account passwords
-🔎 Easily search through stored account passwords
- 🗑 Efficiently delete stored account passwords
+- 🔐 Generate strong and secure random passwords
+
+- 🔑 Utilize advanced hashing algorithms (SHA-1 + Salt) for password encryption
+
+- 📲 Securely store account passwords
+
+- 🔎 Easily search through stored account passwords
+
+- 🗑 Efficiently delete stored account passwords
 
 # Clone the Repository:
 git clone https://github.com/yourusername/SafeGuard.git
