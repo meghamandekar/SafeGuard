@@ -30,7 +30,7 @@ cd SafeGuard
 
 - Select the folder and click OK to open the project.
 
-- Install Dependencies:
+# Install Dependencies:
 1. Ensure you have JDK 22 installed.
 
 2. Configure the JDK in IntelliJ by navigating to File > Project Structure > Project and setting the Project SDK.
