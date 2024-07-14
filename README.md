@@ -50,6 +50,4 @@ Click on Build > Build Project or press Ctrl+F9.
 
 - IntelliJ IDEA: IDE for Java development.
 
-- Swing: GUI toolkit for Java.
-
 - Git: Version control system to manage the project.
